@@ -1,0 +1,57 @@
+
+#content {
+	background-image: url("../../assets/images/verticalwaves.png")
+}
+
+.section2 {
+	display: block;
+	padding: 10px;
+	margin-bottom: 10px;
+	margin-top: 40px;
+	margin-left: 100px;
+	height: 680px;
+	width: 600px;
+	float: left;
+	color: #333;
+	background: #ffffff;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #dddddd;
+
+}
+
+
+
+.aside {
+	display: block;
+	float: right;
+	width: 270px;
+	text-align: center;
+	margin-top: 40px;
+	margin-right: 250px;
+	padding-bottom: 20px;
+	background: #ffffff;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #dddddd;
+	color: #4aaaa5;
+}
+
+
+.imageset1 {
+	float: left;
+	padding: 15px 30px 15px 30px;
+}
+
+
+.imageset2 {
+	float: right;
+	padding: 15px 30px 15px 15px;
+}
+
+.bottomright {
+	position: absolute;
+    bottom: : 8px;
+    left: 16px;
+    font-size: 18px;
+}
